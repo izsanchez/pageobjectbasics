@@ -93,7 +93,7 @@ public class CustomListeners extends Page implements ITestListener,ISuiteListene
 		 
 		try {
 			messageBody = "http://" + InetAddress.getLocalHost().getHostAddress()
-					+ ":9090/job/LiveProject%20-%20PageObjectModel/Extent_5fReport";
+					+ ":9090/job/LiveProject%20-%20PageObjectModel/Extent_20Report/";
 		} catch (UnknownHostException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
