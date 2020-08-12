@@ -1,0 +1,6 @@
+INFO    2020-08-10 18:27:21,924 [main] com.itstark.base.Page  - Config file loaded!
+INFO    2020-08-10 18:27:21,925 [main] com.itstark.base.Page  - OR file loaded!
+INFO    2020-08-10 18:27:22,792 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+INFO    2020-08-10 18:27:22,839 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\Isaac Zuniga\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+INFO    2020-08-10 18:27:27,591 [main] com.itstark.base.Page  - Chrome Launched!
+INFO    2020-08-10 18:27:28,050 [main] com.itstark.base.Page  - Navigated to : http://192.168.1.239:1080/Webtours/

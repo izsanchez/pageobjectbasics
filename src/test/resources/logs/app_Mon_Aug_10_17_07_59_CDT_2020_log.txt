@@ -1,0 +1,9 @@
+INFO    2020-08-10 17:07:59,957 [main] com.itstark.base.Page  - Config file loaded!
+INFO    2020-08-10 17:07:59,959 [main] com.itstark.base.Page  - OR file loaded!
+INFO    2020-08-10 17:08:01,846 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using geckodriver 0.27.0 (since Firefox 79 is installed in your machine)
+INFO    2020-08-10 17:08:01,880 [main] io.github.bonigarcia.wdm.WebDriverManager  - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+INFO    2020-08-10 17:08:02,497 [main] io.github.bonigarcia.wdm.online.Downloader  - Downloading https://github.com/mozilla/geckodriver/releases/download/v0.27.0/geckodriver-v0.27.0-win64.zip
+INFO    2020-08-10 17:08:04,132 [main] io.github.bonigarcia.wdm.online.Downloader  - Extracting binary from compressed file geckodriver-v0.27.0-win64.zip
+INFO    2020-08-10 17:08:04,191 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.gecko.driver as C:\Users\Isaac Zuniga\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+INFO    2020-08-10 17:08:17,387 [main] com.itstark.base.Page  - Firefox Launched!
+INFO    2020-08-10 17:08:18,564 [main] com.itstark.base.Page  - Navigated to : http://192.168.1.239:1080/Webtours/

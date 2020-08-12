@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Page Object Model">
+
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter"></listener>
+		<listener class-name="com.istark.listeners.CustomListeners"></listener>
+	</listeners>
+
+	<test name="Web Tours Login Test">
+		<classes>
+			<class name="com.istark.testcases.LoginTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Web Tours Search Flight">
+		<classes>
+			<class name="com.istark.testcases.SearchFlight" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Web Tours Payment Details">
+		<classes>
+			<class name="com.istark.testcases.PaymentDetails" />
+		</classes>
+	</test> <!-- Test -->
+	<test name="Web Tours SignOff">
+		<classes>
+			<class name="com.istark.testcases.SignOff" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
